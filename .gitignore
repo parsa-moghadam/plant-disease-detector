@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Dataset (سنگین - چند گیگ)
+dataset/
+
+# مدل‌های آموزش‌دیده
+models/
+*.h5
+*.keras
+*.pb
+*.pt
+*.pth
+*.onnx
+*.tflite
+
+# سیستم‌عامل
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# لاگ و موقت
+*.log
+.env
