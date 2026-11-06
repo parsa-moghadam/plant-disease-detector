@@ -1,6 +1,6 @@
-# 🌱 Plant Disease Detector
+# 👤 Age & Gender Detector
 
-تشخیص بیماری گیاه از روی عکس برگ با یادگیری عمیق.
+تشخیص سن و جنسیت از روی عکس چهره با یادگیری عمیق.
 
 ## وضعیت پروژه
 🚧 در حال توسعه
@@ -11,12 +11,10 @@
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
-```
 
-## دیتاست
+دیتاست
 
-PlantVillage — در حال آماده‌سازی
-
-## اجرا
+FairFace — در حال آماده‌سازی
+اجرا
 
 به‌زودی...

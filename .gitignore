@@ -9,10 +9,10 @@ venv/
 env/
 .venv/
 
-# Dataset (سنگین - چند گیگ)
+# Dataset (sangin - chand GB)
 dataset/
 
-# مدل‌های آموزش‌دیده
+# Model-haye amoozesh-dide
 models/
 *.h5
 *.keras
@@ -22,7 +22,11 @@ models/
 *.onnx
 *.tflite
 
-# سیستم‌عامل
+# Cache
+.cache/
+*.cache
+
+# System
 .DS_Store
 Thumbs.db
 desktop.ini
@@ -32,6 +36,6 @@ desktop.ini
 .idea/
 *.swp
 
-# لاگ و موقت
+# Log va movaghat
 *.log
 .env
